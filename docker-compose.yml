@@ -1,6 +1,6 @@
 version: '3.3'
 services:
-  snake:
+  Chat:
     image: 'abe6191990/nodejschatapp'
     environment:
       - "PORT:3700"
